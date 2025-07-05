@@ -1,3 +1,3 @@
-GPT-4o streamlit chatbot in Python.
+gemini-1.2 flask streamlit chatbot in Python.
 
-Video reference: https://youtu.be/j2WTq82rUr0
+then get all requirement list
